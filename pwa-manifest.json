@@ -5,17 +5,12 @@
   "icons": [
     {
       "src": "icon_114x114.png",
-      "sizes": "114x114 194x194 512x512",
+      "sizes": "194x194 512x512",
       "type": "image/png"
     },
     {
-      "src": "icon_72x72.png",
-      "sizes": "72x72",
-      "type": "image/png"
-    },
-    {
-      "src": "icon_57x57.png",
-      "sizes": "57x57",
+      "src": "icon_114x114.png",
+      "sizes": "144x144",
       "type": "image/png"
     }
   ],
