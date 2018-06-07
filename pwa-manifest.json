@@ -4,12 +4,12 @@
   "orientation": "landscape-primary",
   "icons": [
     {
-      "src": "icon_114x114.png",
+      "src":"favicon-194x194.png",
       "sizes": "194x194 512x512",
       "type": "image/png"
     },
     {
-      "src": "icon_114x114.png",
+      "src":"favicon-144x144.png",
       "sizes": "144x144",
       "type": "image/png"
     }
